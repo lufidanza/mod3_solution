@@ -1,0 +1,36 @@
+* {
+    
+    font-family: "Comic Sans MS", sans-serif;
+
+}
+
+.titulo {
+
+    font-size: 180%;
+}
+
+.chicken {
+    height: 1000px;
+    background-color: gray;
+    
+}
+
+.chicken, p{
+
+    padding: 20px;
+}
+
+.texto {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+@media (max-width: 767px){
+.menu-cabezera {
+    background-color: hsla(330, 4%, 19%, 0.329);
+    color: white;
+    margin: 0px;
+    }
+}
+
